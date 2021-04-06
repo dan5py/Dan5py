@@ -1,0 +1,3 @@
+- 👋 Hi, I’m dan5py
+- 👀 I’m interested in everything
+- 🌱 I’m currently learning Java
