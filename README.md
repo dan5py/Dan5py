@@ -5,7 +5,7 @@ LANG : Java (JDK 15)
 
 ##### Last version : **1.1.8.0** (*Raven*)
 
-Questo programma consente l'elaborazione delle <a href="https://people.math.sc.edu/Burkardt/data/pnm/pnm.html" target="_blank">immagini PNM</a>.
+Questo programma consente l'elaborazione delle [immagini PNM](https://people.math.sc.edu/Burkardt/data/pnm/pnm.html).
 Sono disponibili le seguenti funzioni : 
 
 - estrazione componente rossa 🔴
@@ -24,7 +24,4 @@ Sono disponibili le seguenti funzioni :
 
 
 ![image](https://user-images.githubusercontent.com/59441403/113778749-15343e80-972d-11eb-8e17-0a5120de8f50.png)
-
-
-
 
