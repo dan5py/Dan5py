@@ -1,3 +1,3 @@
 # Coding ... 
 
-[Coding gif](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif)
+![Coding gif](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif)
