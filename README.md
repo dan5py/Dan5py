@@ -1,5 +1,10 @@
 # Hey 👋
 
+<a href="https://it.linkedin.com/in/daniele-luisetto-680054253" title="Linkedin Profile">
+  <img src="https://img.shields.io/badge/Linkedin-Daniele%20Luisetto-blue?logo=linkedin&logoColor=white" alt="Linkedin Shield"/>
+</a>
+
+
 Hi, it's Daniele here. I'm a student with a big passion for everything related to software and programming, especially the Web.
 
 <div align="center">
