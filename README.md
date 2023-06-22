@@ -8,8 +8,8 @@
 Hi, it's Daniele here. I'm a student with a big passion for everything related to software and programming, especially the Web.
 
 <div align="center">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=dan5py&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" alt="User Stats"/>
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan5py&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" alt="Languages Stats"/>
+  <img align="top" src="https://github-readme-stats-dan5py.vercel.app/api?username=dan5py&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" alt="User Stats"/>
+  <img align="top" src="https://github-readme-stats-dan5py.vercel.app/api/top-langs/?username=dan5py&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" alt="Languages Stats"/>
 </div>
 
 
