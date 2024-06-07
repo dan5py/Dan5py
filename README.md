@@ -5,7 +5,7 @@
 </a>
 
 
-Hi, it's Daniele here. I'm a student with a big passion for everything related to software and programming, especially the Web.
+Hi, it's Daniele here. I'm a freelance developer with a big passion for everything related to software and programming, especially the Web.
 
 <div align="center">
   <img align="top" src="https://github-readme-stats-dan5py.vercel.app/api?username=dan5py&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" alt="User Stats"/>
