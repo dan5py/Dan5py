@@ -1,11 +1,11 @@
-# Hey 👋
+# Hey, it's Daniele here 👋
 
 <a href="https://it.linkedin.com/in/daniele-luisetto-680054253" title="Linkedin Profile">
   <img src="https://img.shields.io/badge/Linkedin-Daniele%20Luisetto-blue?logo=linkedin&logoColor=white" alt="Linkedin Shield"/>
 </a>
 
 
-Hi, it's Daniele here. I'm a freelance developer with a big passion for everything related to software and programming, especially the Web.
+*Always learning, always building.*
 
 <div align="center">
   <img align="top" src="https://github-readme-stats-dan5py.vercel.app/api?username=dan5py&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" alt="User Stats"/>
