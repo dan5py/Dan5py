@@ -1,11 +1,7 @@
 # Hey, it's Daniele here 👋
 
-I don't drink coffee ☕
-
-<div align="center">
-  <img align="top" src="https://github-readme-stats-dan5py.vercel.app/api?username=dan5py&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" alt="User Stats"/>
-  <img align="top" src="https://github-readme-stats-dan5py.vercel.app/api/top-langs/?username=dan5py&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" alt="Languages Stats"/>
-</div>
+> [!NOTE]
+> I don't drink coffee ☕
 
 
 ## What I use
