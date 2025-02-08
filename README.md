@@ -1,11 +1,6 @@
 # Hey, it's Daniele here 👋
 
-<a href="https://it.linkedin.com/in/daniele-luisetto-680054253" title="Linkedin Profile">
-  <img src="https://img.shields.io/badge/Linkedin-Daniele%20Luisetto-blue?logo=linkedin&logoColor=white" alt="Linkedin Shield"/>
-</a>
-
-
-*Always learning, always building.*
+I don't drink coffee ☕
 
 <div align="center">
   <img align="top" src="https://github-readme-stats-dan5py.vercel.app/api?username=dan5py&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" alt="User Stats"/>
@@ -28,3 +23,10 @@
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="Prisma" title="Prisma"/>
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker"/>
 </div>
+
+
+##
+
+<a href="https://it.linkedin.com/in/daniele-luisetto-680054253" title="Linkedin Profile">
+  <img src="https://img.shields.io/badge/Linkedin-Daniele%20Luisetto-blue?logo=linkedin&logoColor=white" alt="Linkedin Shield"/>
+</a>
